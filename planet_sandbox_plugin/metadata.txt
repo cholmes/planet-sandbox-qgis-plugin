@@ -1,19 +1,19 @@
 [general]
 name=Planet Sandbox Plugin
 qgisMinimumVersion=3.0
-description=Plugin to view Planet's sandbox data
-version=0.1
-author=Your Name
-email=your.email@example.com
+description=Plugin to explore Planet's Sandbox data from the Planet Insights Platform. Right now it only displays a single layer, but makes it easy to see where the data is. This plugin will expand functionality in future versions.
+version=0.1.0
+author=Chris Holmes
+email=cholmes@planet.com
 
 about=This plugin helps view Planet's sandbox data by downloading and displaying GeoJSON from Planet's sandbox.
 
-tracker=http://github.com/your-repo/issues
-repository=http://github.com/your-repo
+tracker=https://github.com/cholmes/planet-sandbox-qgis-plugin/issues
+repository=https://github.com/cholmes/planet-sandbox-qgis-plugin
 
 tags=planet, sandbox, geojson
 
-homepage=http://github.com/your-repo
+homepage=https://github.com/cholmes/planet-sandbox-qgis-plugin
 category=Web
 
 experimental=True
