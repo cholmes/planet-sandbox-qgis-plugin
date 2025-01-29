@@ -1,0 +1,20 @@
+[general]
+name=Planet Sandbox Plugin
+qgisMinimumVersion=3.0
+description=Plugin to view Planet's sandbox data
+version=0.1
+author=Your Name
+email=your.email@example.com
+
+about=This plugin helps view Planet's sandbox data by downloading and displaying GeoJSON from Planet's sandbox.
+
+tracker=http://github.com/your-repo/issues
+repository=http://github.com/your-repo
+
+tags=planet, sandbox, geojson
+
+homepage=http://github.com/your-repo
+category=Web
+
+experimental=True
+deprecated=False 
